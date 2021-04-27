@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Personal Project
-- 🌱 I’m currently learning Flutter and Laravel
+- 🔭 Work as freelance
+- 🌱 Love PHP Especiall Codeigniter and Laravel
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

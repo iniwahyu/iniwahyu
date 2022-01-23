@@ -1,8 +1,16 @@
 <!-- **iniwahyu/iniwahyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+## Contribution Stats
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iniwahyu)](https://github.com/lorddashme/github-contribution-stats)
 
+## Job
+- IT Support at Ministry of Health Indonesia
+- Web Developer Freelance
 
-## Hey 👋, This is Wahyu Rizky
+## Lovely Language
+- PHP (Codeigniter and Laravel)
+- Node JS
+
+## Contact
 [![Gmail Badge](https://img.shields.io/badge/-wrep17@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wrep17@gmail.com)](mailto:wrep17@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-wahyuriz17-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wahyuriz17/)](https://www.linkedin.com/in/wahyuriz17/) [![Github Badge](https://img.shields.io/badge/-iniwahyu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/iniwahyu/)](https://www.github.com/iniwahyu/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=http://iniwahyu.my.id/)](iniwahyu.my.id/) <p align='left'>Love Code and Coffe</p>
+[![Linkedin Badge](https://img.shields.io/badge/-wahyuriz17-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wahyuriz17/)](https://www.linkedin.com/in/wahyuriz17/) [![Github Badge](https://img.shields.io/badge/-iniwahyu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/iniwahyu/)](https://www.github.com/iniwahyu/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=http://iniwahyu.my.id/)](http://iniwahyu.my.id) 

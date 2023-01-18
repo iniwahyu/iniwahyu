@@ -4,12 +4,13 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iniwahyu)](https://github.com/lorddashme/github-contribution-stats)
 
 ## Job
-- IT Support at Ministry of Health Indonesia
-- Web Developer Freelance
+- Application Development Analyst at Accenture Indonesia
+- Software Engineer Freelance
 
 ## Lovely Language
-- PHP (Codeigniter and Laravel)
+- PHP Laravel
 - Node JS
+- DialogFlow
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/-wrep17@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wrep17@gmail.com)](mailto:wrep17@gmail.com) 

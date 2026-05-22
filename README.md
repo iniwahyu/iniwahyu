@@ -45,25 +45,21 @@ I build scalable backend systems, automation workflows, and AI-powered tools tha
 ---
 
 ## 🚀 Featured Projects
-> Ganti link di bawah dengan repo kamu yang paling relevan.
 
 ### 1) Scalable Backend Service
 - Built RESTful backend service for operational workflows
 - Tech: `FastAPI`, `PostgreSQL`, `Docker`
 - Impact: Improved maintainability and service response consistency  
-- Repo: [Project Link](https://github.com/iniwahyu)
 
 ### 2) Automation & Data Pipeline Tool
 - Automated recurring data operations and scheduling process
 - Tech: `Python`, `Airflow`, `Cron`, `SQL`
 - Impact: Reduced manual repetitive tasks and improved reliability  
-- Repo: [Project Link](https://github.com/iniwahyu)
 
 ### 3) AI-Powered Internal Assistant
 - Developed AI-enabled workflow assistant for productivity use cases
 - Tech: `Python`, `Node.js`, `LLM tooling`
 - Impact: Faster information lookup and workflow execution  
-- Repo: [Project Link](https://github.com/iniwahyu)
 
 ---
 

@@ -5,22 +5,6 @@ I build scalable backend systems, automation workflows, and AI-powered tools tha
 
 ---
 
-## 📊 GitHub Insights
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iniwahyu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iniwahyu&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniwahyu&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="left">
-  <img height="170" src="https://streak-stats.demolab.com?user=iniwahyu&theme=default&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## 💼 Current Roles
 - Software Engineer at **Accenture Indonesia**
 - Freelance Software Engineer (Backend, API, Automation)
